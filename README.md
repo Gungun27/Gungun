@@ -1,0 +1,1 @@
+Developed a full-stack student portfolio website to showcase personal profile, skills, projects, and achievements. Implemented responsive frontend design with backend functionality for dynamic content management and user interaction.
